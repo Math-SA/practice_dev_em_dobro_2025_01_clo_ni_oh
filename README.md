@@ -1,2 +1,3 @@
-# practice_dev_em_dobro_2025_01_yugiclone
-Clone do jogo de cartas - feito na Semana do 0 ao Programador Contratado - Canal Dev em Dobro
+# Clo-ni-Oh! Clone daquele jogo de cartas - Semana do 0 ao Programador Contratado - [Canal Dev em Dobro](https://www.youtube.com/@DevemDobro)
+
+Objetivo: Apresentar o básico de html, css, e javascript para programadores iniciantes.
