@@ -68,7 +68,6 @@ body {
 
 .cartao .nivel-carta {
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
     margin-right: 10px;
     gap: 5px;    
@@ -81,6 +80,7 @@ body {
 
 .cartao .informacoes {
     background: radial-gradient(circle, #f3e2c8, #e4cfa5, #c4a57a);
+    border: 2px solid #a67c52;
     border-radius: 5px;
     color: black;
     max-width: 300px;
@@ -167,4 +167,31 @@ body::-webkit-scrollbar-track{
 
 ::-webkit-scrollbar-thumb:hover {
     background: #c08057;
+}
+
+.carta-virada {
+	display: none;
+}
+
+.carta-virada.mostrar-fundo-carta {
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: url(../imagens/fundo-carta.jpg);
+	background-size: cover;
+	background-position: center;
+	top: 0;
+	left: 0;
+	border-radius: 10px;
+	z-index: 2;
+}
+
+.cartao.virar {
+	transform: rotateZ(90deg);
+	transition: transform 0.3s ease-in-out;
+}
+
+.esconder {
+	display: none;
 }
