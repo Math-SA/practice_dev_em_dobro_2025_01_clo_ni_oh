@@ -1,4 +1,4 @@
-# Clo-ni-Oh! Clone daquele jogo de cartas - Semana do 0 ao Programador Contratado - [Canal Dev em Dobro](https://www.youtube.com/@DevemDobro)
+# Clo-ni-Oh! Clone daquele jogo de cartas - Semana do 0 ao Programador Contratado - [Canal Dev em Dobro](https://www.youtube.com/@DevemDobro) 
 
 ![image](https://github.com/user-attachments/assets/3b0d90ab-4413-4d3e-908c-9dd6beee4583)
 
@@ -34,3 +34,8 @@ Caso suspeite que uma carta é o infiltrado, o jogador pode ordenar a prisão da
 
 8 - No final, o xp geral e os créditos que não foram roubados são distribuidos.
 
+# Créditos
+## Design inicial
+Design inicial, html, css e js, além das cartas usadas como exemplo para o ChatGPT: Semana do 0 ao Programador Contratado - Canal Dev em Dobro [youtube](https://www.youtube.com/@DevemDobro) [instagram](https://www.instagram.com/devemdobro)
+## Cartas base
+Cartas iniciais geradas pelo ChatGPT https://chatgpt.com/share/679d564a-3c5c-8012-9704-7ccfda1ed7fe
