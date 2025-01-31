@@ -1,60 +1,139 @@
 {
     "cartas": [
         {
-            "nome": "Cosmos Sentinel, o Guardião Galáctico",
-            "nivel": 5,
-            "imagem": "src/imagens/cosmos-sentinel.png",
-            "descricao": "\n Este imponente guerreiro cibernético é a personificação da\n harmonia entre tecnologia avançada e energia cósmica. Empunhando o\n Cetro Estelar, Cosmos Sentinel pode manipular o espaço-tempo,\n anulando ataques e fortalecendo aliados.\n ",
-            "ataque": " 2800",
-            "defesa": " 2500"
+            "nome": "Azarion, o Fogo Celeste",
+            "classe": "Elemental",
+            "dano": "Fogo",
+            "imagem": "src/imagens/azarion.png",
+            "descricao": "\n Uma entidade flamejante nascida do coração de uma supernova. Azarion incinera tudo em seu caminho com sua aura ardente, deixando apenas cinzas e luz em seu rastro. Seu rugido ressoa como trovões cósmicos.\n ",
+            "ataque": "3100",
+            "defesa": "1800"
         },
         {
-            "nome": "Nebuladragon, o Ser das Estrelas Eternas",
-            "nivel": 7,
-            "imagem": "src/imagens/nebuladragon.png",
-            "descricao": "\n Uma criatura mítica nascida da fusão de nebulosas e energia\n estelar. Com suas escamas cristalinas, Nebuladragon canaliza o\n poder do cosmos, devastando seus inimigos com rajadas de energia\n pura. Diz-se que ele aparece apenas em momentos de caos universal,\n como arauto de renovação e equilíbrio celestial.\n ",
-            "ataque": " 3200",
-            "defesa": " 2000"
+            "nome": "Sylphara, a Guardiã dos Ventos Antigos",
+            "classe": "Fada",
+            "dano": "Vento",
+            "imagem": "src/imagens/sylphara.png",
+            "descricao": "\n Uma antiga guardiã dos ventos sagrados, Sylphara comanda tempestades e brisas suaves ao seu bel-prazer. Sua presença acalma aliados e desorienta inimigos, tornando-a uma adversária imprevisível.\n ",
+            "ataque": "2600",
+            "defesa": "2400"
         },
         {
-            "nome": "Cyberblade Paladin, o Cavaleiro Digital",
-            "nivel": 3,
-            "imagem": "src/imagens/cyberblade-paladin.png",
-            "descricao": "\n Armado com a lendária Cyberblade, este cavaleiro cibernético é um\n protetor das dimensões digitais. Com reflexos aprimorados e um\n senso de justiça inabalável, ele combate invasores que ameaçam o\n equilíbrio dos mundos virtuais e reais. Sua espada emana um brilho\n tecnológico que pode cortar tanto matéria física quanto código\n digital.\n ",
-            "ataque": " 2600",
-            "defesa": " 2300"
+            "nome": "Dreadmire, o Terror Abissal",
+            "classe": "Aberração",
+            "dano": "Sombrio",
+            "imagem": "src/imagens/dreadmire.png",
+            "descricao": "\n Um ser das profundezas esquecidas, Dreadmire se alimenta do medo e da escuridão. Suas garras etéreas dilaceram a sanidade dos oponentes, enquanto sua presença distorce a própria realidade ao seu redor.\n ",
+            "ataque": "2900",
+            "defesa": "2200"
         },
         {
-            "nome": "Mechadragon X, o Destruidor Biomecânico",
-            "nivel": 7,
-            "imagem": "src/imagens/mechadragon.png",
-            "descricao": "\n Uma fusão mortal de biologia dracônica e engenharia cibernética,\n Mechadragon X foi criado para ser uma arma definitiva. Com suas\n asas energizadas e múltiplos núcleos de poder, ele é capaz de\n disparar rajadas devastadoras e neutralizar até os mais fortes\n adversários. Sua presença no campo de batalha é um presságio de\n destruição iminente, conhecido como o \"Fim das Eras\".\n ",
-            "ataque": " 3500",
-            "defesa": " 3000"
+            "nome": "Galdurim, o Titã de Pedra",
+            "classe": "Gigante",
+            "dano": "Terra",
+            "imagem": "src/imagens/galdurim.png",
+            "descricao": "\n Forjado pelas forças da terra, Galdurim é uma montanha viva. Seus socos fazem o solo tremer, e sua pele rochosa é quase impenetrável. Ele é um protetor incansável, esmagando qualquer ameaça que se aproxime.\n ",
+            "ataque": "2700",
+            "defesa": "3000"
         },
         {
-            "nome": "Archmage Stellarion, o Guardião das Estrelas",
-            "nivel": 3,
-            "imagem": "src/imagens/archmage.png",
-            "descricao": "\n Um mago enigmático que manipula as forças do cosmos para proteger\n o equilíbrio universal. Archmage Stellarion utiliza seu Cetro\n Cósmico para canalizar feitiços de luz estelar, podendo banir\n inimigos para dimensões distantes ou fortalecer aliados com\n energia astral. Sua presença no campo de batalha é envolta em\n mistério e poder, sendo reverenciado como o \"Sábio do Infinito\".\n ",
-            "ataque": " 2400",
-            "defesa": " 2600"
+            "nome": "Vaeltharion, a Serpente Tempestuosa",
+            "classe": "Dragão",
+            "dano": "Elétrico",
+            "imagem": "src/imagens/vaeltharion.png",
+            "descricao": "\n Um antigo dragão imbuído do poder das tempestades. Com um único bater de asas, Vaeltharion pode invocar trovões e raios destrutivos. Seu corpo reluz com eletricidade pura, tornando-o uma força imparável da natureza.\n ",
+            "ataque": "3200",
+            "defesa": "2100"
         },
         {
-            "nome": "Aegis Knight, o Guardião do Firmamento",
-            "nivel": 4,
-            "imagem": "src/imagens/aegis-knight.png",
-            "descricao": "\n Vestindo uma armadura forjada com fragmentos de estrelas, Aegis\n Knight é o defensor final das dimensões. Empunhando a Espada\n Astral e o Escudo Celestial, ele possui o poder de anular ataques\n inimigos e contra-atacar com golpes de pura energia cósmica. Seu\n juramento é proteger o equilíbrio entre luz e trevas, sendo\n lembrado como a \"Fortaleza do Cosmos\".\n ",
-            "ataque": " 3000",
-            "defesa": " 2800"
+            "nome": "Lunaris, o Arqueiro da Lua Crescente",
+            "classe": "Elfo",
+            "dano": "Mágico",
+            "imagem": "src/imagens/lunaris.png",
+            "descricao": "\n Um arqueiro elfo que canaliza o poder da lua em suas flechas. Lunaris é conhecido por sua precisão impecável e habilidade de atacar à distância, utilizando a energia lunar para enfraquecer seus inimigos.\n ",
+            "ataque": "2500",
+            "defesa": "2300"
         },
         {
-            "nome": "Stormbringer Dragon, o Arauto das Tempestades",
-            "nivel": 5,
-            "imagem": "src/imagens/stormbringer.png",
-            "descricao": "\n Este poderoso dragão domina os céus, invocando trovões e\n relâmpagos com o bater de suas asas. Stormbringer Dragon é a\n personificação da fúria da natureza, destruindo tudo em seu\n caminho com rajadas elétricas e ventos cortantes. Diz-se que sua\n aparição é o prelúdio de uma tempestade sem fim, trazendo\n destruição e renovação aos campos de batalha.\n ",
-            "ataque": " 2900",
-            "defesa": " 2100"
+            "nome": "Thalindra, a Feiticeira das Sombras",
+            "classe": "Humano",
+            "dano": "Sombrio",
+            "imagem": "src/imagens/thalindra.png",
+            "descricao": "\n Uma poderosa feiticeira humana que domina as artes das sombras. Thalindra manipula a escuridão para confundir e atacar seus adversários, tornando-se uma ameaça imprevisível no campo de batalha.\n ",
+            "ataque": "2700",
+            "defesa": "2100"
+        },
+        {
+            "nome": "Gorath, o Bárbaro das Montanhas",
+            "classe": "Orc",
+            "dano": "Físico",
+            "imagem": "src/imagens/gorath.png",
+            "descricao": "\n Um guerreiro orc robusto vindo das montanhas geladas. Gorath utiliza sua força bruta para esmagar seus inimigos, empunhando um machado gigante que pode partir rochas ao meio.\n ",
+            "ataque": "3000",
+            "defesa": "2000"
+        },
+        {
+            "nome": "Eldoria, a Guardiã da Floresta",
+            "classe": "Fada",
+            "dano": "Natureza",
+            "imagem": "src/imagens/eldoria.png",
+            "descricao": "\n Uma fada protetora das florestas antigas. Eldoria usa sua magia natural para curar aliados e invocar criaturas da floresta para auxiliar em combate, mantendo o equilíbrio da natureza.\n ",
+            "ataque": "2200",
+            "defesa": "2800"
+        },
+        {
+            "nome": "Drakonis, o Dragão de Fogo",
+            "classe": "Dragão",
+            "dano": "Fogo",
+            "imagem": "src/imagens/drakonis.png",
+            "descricao": "\n Um dragão ancestral que cospe chamas intensas. Drakonis é temido por sua capacidade de incinerar exércitos inteiros com seu sopro de fogo, deixando apenas cinzas em seu caminho.\n ",
+            "ataque": "3500",
+            "defesa": "2500"
+        },
+        {
+            "nome": "Seraphina, a Paladina da Luz",
+            "classe": "Anjo",
+            "dano": "Luz",
+            "imagem": "src/imagens/seraphina.png",
+            "descricao": "\n Uma guerreira angelical que empunha uma espada luminosa. Seraphina combate as forças das trevas, usando sua luz divina para purificar o mal e proteger os inocentes.\n ",
+            "ataque": "2800",
+            "defesa": "3000"
+        },
+        {
+            "nome": "Morgrim, o Necromante Sombrio",
+            "classe": "Humano",
+            "dano": "Sombrio",
+            "imagem": "src/imagens/morgrim.png",
+            "descricao": "\n Um necromante humano que comanda legiões de mortos-vivos. Morgrim utiliza magia negra para ressuscitar os caídos e drenar a vida de seus inimigos, espalhando terror por onde passa.\n ",
+            "ataque": "2600",
+            "defesa": "2200"
+        },
+        {
+            "nome": "Aqualis, o Senhor das Marés",
+            "classe": "Elemental",
+            "dano": "Água",
+            "imagem": "src/imagens/aqualis.png",
+            "descricao": "\n Um ser elemental que controla os oceanos. Aqualis pode invocar tsunamis e manipular a água para atacar seus adversários, além de curar aliados com suas águas purificadoras.\n ",
+            "ataque": "2400",
+            "defesa": "2700"
+        },
+        {
+            "nome": "Zephyra, a Dançarina dos Ventos",
+            "classe": "Humano",
+            "dano": "Vento",
+            "imagem": "src/imagens/zephyra.png",
+            "descricao": "\n Uma ágil guerreira que se move como o vento. Zephyra utiliza sua velocidade e graça para desferir golpes rápidos, confundindo seus inimigos com movimentos imprevisíveis.\n ",
+            "ataque": "2300",
+            "defesa": "2400"
+        },
+        {
+            "nome": "Balor, o Senhor dos Demônios",
+            "classe": "Demônio",
+            "dano": "Fogo",
+            "imagem": "src/imagens/balor.png",
+            "descricao": "\n Um demônio poderoso que governa as chamas do inferno. Balor espalha destruição com seu fogo infernal, deleitando-se no caos e na miséria que causa aos mortais.\n ",
+            "ataque": "3200",
+            "defesa": "2300"
         }
     ]
 }
