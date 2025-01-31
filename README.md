@@ -4,7 +4,7 @@
 
 Objetivo: Apresentar o básico de html, css, e javascript para programadores iniciantes.
 
-# Extra - Transformando em um jogo "de verdade".
+# Extra - Transformando em um jogo "de verdade". https://github.com/users/Math-SA/projects/5
 O jogo consiste no combate entre cartas dos jogadores. As cartas são criadas a partir da clonagem de cartas base. 
 
 1 - Antes de começar a partida, o jogador define sua mão com 7 cartas da sua coleção.
