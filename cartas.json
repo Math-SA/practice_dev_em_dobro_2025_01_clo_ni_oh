@@ -1,0 +1,60 @@
+{
+    "cartas": [
+        {
+            "nome": "Cosmos Sentinel, o Guardião Galáctico",
+            "nivel": 5,
+            "imagem": "src/imagens/cosmos-sentinel.png",
+            "descricao": "\n Este imponente guerreiro cibernético é a personificação da\n harmonia entre tecnologia avançada e energia cósmica. Empunhando o\n Cetro Estelar, Cosmos Sentinel pode manipular o espaço-tempo,\n anulando ataques e fortalecendo aliados.\n ",
+            "ataque": " 2800",
+            "defesa": " 2500"
+        },
+        {
+            "nome": "Nebuladragon, o Ser das Estrelas Eternas",
+            "nivel": 7,
+            "imagem": "src/imagens/nebuladragon.png",
+            "descricao": "\n Uma criatura mítica nascida da fusão de nebulosas e energia\n estelar. Com suas escamas cristalinas, Nebuladragon canaliza o\n poder do cosmos, devastando seus inimigos com rajadas de energia\n pura. Diz-se que ele aparece apenas em momentos de caos universal,\n como arauto de renovação e equilíbrio celestial.\n ",
+            "ataque": " 3200",
+            "defesa": " 2000"
+        },
+        {
+            "nome": "Cyberblade Paladin, o Cavaleiro Digital",
+            "nivel": 3,
+            "imagem": "src/imagens/cyberblade-paladin.png",
+            "descricao": "\n Armado com a lendária Cyberblade, este cavaleiro cibernético é um\n protetor das dimensões digitais. Com reflexos aprimorados e um\n senso de justiça inabalável, ele combate invasores que ameaçam o\n equilíbrio dos mundos virtuais e reais. Sua espada emana um brilho\n tecnológico que pode cortar tanto matéria física quanto código\n digital.\n ",
+            "ataque": " 2600",
+            "defesa": " 2300"
+        },
+        {
+            "nome": "Mechadragon X, o Destruidor Biomecânico",
+            "nivel": 7,
+            "imagem": "src/imagens/mechadragon.png",
+            "descricao": "\n Uma fusão mortal de biologia dracônica e engenharia cibernética,\n Mechadragon X foi criado para ser uma arma definitiva. Com suas\n asas energizadas e múltiplos núcleos de poder, ele é capaz de\n disparar rajadas devastadoras e neutralizar até os mais fortes\n adversários. Sua presença no campo de batalha é um presságio de\n destruição iminente, conhecido como o \"Fim das Eras\".\n ",
+            "ataque": " 3500",
+            "defesa": " 3000"
+        },
+        {
+            "nome": "Archmage Stellarion, o Guardião das Estrelas",
+            "nivel": 3,
+            "imagem": "src/imagens/archmage.png",
+            "descricao": "\n Um mago enigmático que manipula as forças do cosmos para proteger\n o equilíbrio universal. Archmage Stellarion utiliza seu Cetro\n Cósmico para canalizar feitiços de luz estelar, podendo banir\n inimigos para dimensões distantes ou fortalecer aliados com\n energia astral. Sua presença no campo de batalha é envolta em\n mistério e poder, sendo reverenciado como o \"Sábio do Infinito\".\n ",
+            "ataque": " 2400",
+            "defesa": " 2600"
+        },
+        {
+            "nome": "Aegis Knight, o Guardião do Firmamento",
+            "nivel": 4,
+            "imagem": "src/imagens/aegis-knight.png",
+            "descricao": "\n Vestindo uma armadura forjada com fragmentos de estrelas, Aegis\n Knight é o defensor final das dimensões. Empunhando a Espada\n Astral e o Escudo Celestial, ele possui o poder de anular ataques\n inimigos e contra-atacar com golpes de pura energia cósmica. Seu\n juramento é proteger o equilíbrio entre luz e trevas, sendo\n lembrado como a \"Fortaleza do Cosmos\".\n ",
+            "ataque": " 3000",
+            "defesa": " 2800"
+        },
+        {
+            "nome": "Stormbringer Dragon, o Arauto das Tempestades",
+            "nivel": 5,
+            "imagem": "src/imagens/stormbringer.png",
+            "descricao": "\n Este poderoso dragão domina os céus, invocando trovões e\n relâmpagos com o bater de suas asas. Stormbringer Dragon é a\n personificação da fúria da natureza, destruindo tudo em seu\n caminho com rajadas elétricas e ventos cortantes. Diz-se que sua\n aparição é o prelúdio de uma tempestade sem fim, trazendo\n destruição e renovação aos campos de batalha.\n ",
+            "ataque": " 2900",
+            "defesa": " 2100"
+        }
+    ]
+}
