@@ -2,6 +2,7 @@
     "cartas": [
         {
             "nome": "Azarion, o Fogo Celeste",
+            "custo": 4,
             "classe": "Elemental",
             "dano": "Fogo",
             "imagem": "src/imagens/azarion.png",
@@ -11,6 +12,7 @@
         },
         {
             "nome": "Sylphara, a Guardiã dos Ventos Antigos",
+            "custo": 4,
             "classe": "Fada",
             "dano": "Vento",
             "imagem": "src/imagens/sylphara.png",
@@ -20,6 +22,7 @@
         },
         {
             "nome": "Dreadmire, o Terror Abissal",
+            "custo": 4,
             "classe": "Aberração",
             "dano": "Sombrio",
             "imagem": "src/imagens/dreadmire.png",
@@ -29,6 +32,7 @@
         },
         {
             "nome": "Galdurim, o Titã de Pedra",
+            "custo": 4,
             "classe": "Gigante",
             "dano": "Terra",
             "imagem": "src/imagens/galdurim.png",
@@ -38,6 +42,7 @@
         },
         {
             "nome": "Vaeltharion, a Serpente Tempestuosa",
+            "custo": 4,
             "classe": "Dragão",
             "dano": "Elétrico",
             "imagem": "src/imagens/vaeltharion.png",
@@ -47,6 +52,7 @@
         },
         {
             "nome": "Lunaris, o Arqueiro da Lua Crescente",
+            "custo": 4,
             "classe": "Elfo",
             "dano": "Mágico",
             "imagem": "src/imagens/lunaris.png",
@@ -56,6 +62,7 @@
         },
         {
             "nome": "Thalindra, a Feiticeira das Sombras",
+            "custo": 4,
             "classe": "Humano",
             "dano": "Sombrio",
             "imagem": "src/imagens/thalindra.png",
@@ -65,6 +72,7 @@
         },
         {
             "nome": "Gorath, o Bárbaro das Montanhas",
+            "custo": 4,
             "classe": "Orc",
             "dano": "Físico",
             "imagem": "src/imagens/gorath.png",
@@ -74,6 +82,7 @@
         },
         {
             "nome": "Eldoria, a Guardiã da Floresta",
+            "custo": 4,
             "classe": "Fada",
             "dano": "Natureza",
             "imagem": "src/imagens/eldoria.png",
@@ -83,6 +92,7 @@
         },
         {
             "nome": "Drakonis, o Dragão de Fogo",
+            "custo": 4,
             "classe": "Dragão",
             "dano": "Fogo",
             "imagem": "src/imagens/drakonis.png",
@@ -92,6 +102,7 @@
         },
         {
             "nome": "Seraphina, a Paladina da Luz",
+            "custo": 4,
             "classe": "Anjo",
             "dano": "Luz",
             "imagem": "src/imagens/seraphina.png",
@@ -101,6 +112,7 @@
         },
         {
             "nome": "Morgrim, o Necromante Sombrio",
+            "custo": 4,
             "classe": "Humano",
             "dano": "Sombrio",
             "imagem": "src/imagens/morgrim.png",
@@ -110,6 +122,7 @@
         },
         {
             "nome": "Aqualis, o Senhor das Marés",
+            "custo": 4,
             "classe": "Elemental",
             "dano": "Água",
             "imagem": "src/imagens/aqualis.png",
@@ -119,6 +132,7 @@
         },
         {
             "nome": "Zephyra, a Dançarina dos Ventos",
+            "custo": 4,
             "classe": "Humano",
             "dano": "Vento",
             "imagem": "src/imagens/zephyra.png",
@@ -128,6 +142,7 @@
         },
         {
             "nome": "Balor, o Senhor dos Demônios",
+            "custo": 4,
             "classe": "Demônio",
             "dano": "Fogo",
             "imagem": "src/imagens/balor.png",
