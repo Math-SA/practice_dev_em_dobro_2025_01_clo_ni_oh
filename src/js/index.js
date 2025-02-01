@@ -21,9 +21,9 @@ function mostrarCartao(cartaoAtual) {
   cartao = document.getElementsByClassName("lista-personagens__cartao-selecionado")[0];
   console.log(cartao.getElementsByClassName("nome")[0]);
   cartao.getElementsByClassName("nome")[0].innerHTML = cartoes[cartaoAtual].nome;
-  const nivel = cartao.getElementsByClassName("nivel-carta")[0];
+  const nivel = cartao.getElementsByClassName("custo-carta")[0];
   nivel.replaceChildren();
-  for (i = 0; i < cartoes[cartaoAtual].nivel; i++){
+  for (i = 0; i < cartoes[cartaoAtual].custo; i++){
     const estrela = document.createElement("span");
     estrela.classList.add("estrela");
     nivel.appendChild(estrela);

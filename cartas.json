@@ -32,7 +32,7 @@
         },
         {
             "nome": "Galdurim, o Titã de Pedra",
-            "custo": 4,
+            "custo": 5,
             "classe": "Gigante",
             "dano": "Terra",
             "imagem": "src/imagens/galdurim.png",
@@ -92,7 +92,7 @@
         },
         {
             "nome": "Drakonis, o Dragão de Fogo",
-            "custo": 4,
+            "custo": 5,
             "classe": "Dragão",
             "dano": "Fogo",
             "imagem": "src/imagens/drakonis.png",
@@ -102,7 +102,7 @@
         },
         {
             "nome": "Seraphina, a Paladina da Luz",
-            "custo": 4,
+            "custo": 5,
             "classe": "Anjo",
             "dano": "Luz",
             "imagem": "src/imagens/seraphina.png",
@@ -142,7 +142,7 @@
         },
         {
             "nome": "Balor, o Senhor dos Demônios",
-            "custo": 4,
+            "custo": 5,
             "classe": "Demônio",
             "dano": "Fogo",
             "imagem": "src/imagens/balor.png",
